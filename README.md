@@ -38,7 +38,7 @@ Assim como demonstrado durante o desafio, realize a criação do Script SQL para
 -   Relação de produtos fornecedores e estoques;
 -   Relação de nomes dos fornecedores e nomes dos produtos;
 
-###_
+### 
 
 **Observações da modelagem/implementação:
 Foram criadas questões em linguagem SQL para trabalhar sobre os dados persistidos.
